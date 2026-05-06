@@ -12,5 +12,19 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Custom Assistant
+
+This repository includes a custom GitHub Copilot assistant specialized in Google Gemini AI Studio development. The assistant is defined in [`.github/copilot-instructions.md`](.github/copilot-instructions.md) and provides guidance on:
+
+- Generating code snippets for Gemini AI API calls
+- Explaining Gemini AI Studio features and workflows
+- Providing examples for text generation, image processing, and multimodal tasks
+- Troubleshooting common issues
+- Suggesting best practices for secure and efficient AI integration
+
+To use the assistant, mention "Gemini" or "AI Studio" in your queries within this repository.
+
+---
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
